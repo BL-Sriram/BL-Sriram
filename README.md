@@ -53,21 +53,6 @@ public class BLSriram {
 
 </div>
 
----
-
-## ðŸ“Œ Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech |
-|:--------|:------------|:-----|
-| ðŸ¨ [**BookMyStayApp**](https://github.com/BL-Sriram/Book-MyStayAppBookMyStayApp) | Hotel Room Booking System with 6 Use Cases â€” FCFS Queue, Room Allocation, Audit Reports | Java, OOP, Interface Design |
-| ðŸ¤– [**FactoryRobotHazardAnalyzer**](https://github.com/BL-Sriram/FactoryRobotHazardAnalyzer) | Robot Safety System using Java Exception Handling | Java, Exception Handling |
-| ðŸŽ¨ [**OOPSBannerApp**](https://github.com/BL-Sriram/OOPSBannerApp) | Object-Oriented Programming learning project | Java, OOP |
-
-</div>
-
----
 
 ## ðŸ“Š GitHub Stats
 
