@@ -16,7 +16,7 @@
 public class BLSriram {
 
     private final String name     = "Sriram";
-    private final String role     = "Java Developer Trainee @ BridgeLabz";
+    private final String role     = "Java Developer @ BridgeLabz";
     private final String email    = "sriram.jeevakarunyam@bridgelabz.com";
     private final String[] focus  = { "Core Java", "OOP", "DSA", "Clean Architecture" };
 
