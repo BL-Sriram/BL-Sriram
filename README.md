@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Animated Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=BL-Sriram&fontSize=60&fontColor=e94560&animation=fadeIn&fontAlignY=38&desc=Java%20Developer%20%7C%20BridgeLabz%20Trainee&descAlignY=55&descSize=20&descColor=a8b2d8" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=BL-Sriram&fontSize=60&fontColor=e94560&animation=fadeIn&fontAlignY=38&desc=Java%20Developer%20%7C%20BridgeLabz%&descAlignY=55&descSize=20&descColor=a8b2d8" />
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E94560&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Sriram+%F0%9F%91%8B;Java+Developer+in+Training+%F0%9F%9A%80;OOP+%7C+DSA+%7C+Clean+Architecture;Building+Real-World+Java+Projects+%F0%9F%8F%A8" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E94560&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Sriram+%F0%9F%91%8B;Java+Developer+%F0%9F%9A%80;OOP+%7C+DSA+%7C+Clean+Architecture;Building+Real-World+Java+Projects+%F0%9F%8F%A8" alt="Typing SVG" /></a>
 
 </div>
 
