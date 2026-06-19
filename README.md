@@ -10,7 +10,7 @@
 
 ---
 
-## ðŸ§‘â€ðŸ’» About Me
+## About Me
 
 ```java
 public class BLSriram {
@@ -32,7 +32,7 @@ public class BLSriram {
 
 ---
 
-## ðŸ› ï¸ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -53,39 +53,7 @@ public class BLSriram {
 
 </div>
 
-
-## ðŸ“Š GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BL-Sriram&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=e94560&text_color=a8b2d8"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BL-Sriram&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&text_color=a8b2d8"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=BL-Sriram&theme=tokyonight&hide_border=true&background=0D1117&ring=E94560&fire=E94560&currStreakLabel=E94560)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## ðŸ—ï¸ BookMyStayApp â€” Use Cases Implemented
-
-```
-UC1  âœ…  Room Inventory Management         â†’ RoomType enum, InventoryService
-UC2  âœ…  Room Search & Availability        â†’ SearchService, RoomSearchResponse DTO
-UC3  âœ…  Booking Request (FCFS Queue)      â†’ Reservation model, BookingServiceImpl
-UC4  âœ…  Reservation Confirmation          â†’ RoomAllocator (UUID-based room IDs)
-UC5  âœ…  Add-on Service Selection          â†’ Service model, AddOnServiceImpl
-UC6  âœ…  History, Reporting & Cancellation â†’ BookingHistoryServiceImpl, Audit Report
-```
-
----
-
-## ðŸ“ˆ Activity Graph
+## Activity Graph
 
 <div align="center">
 
@@ -95,7 +63,7 @@ UC6  âœ…  History, Reporting & Cancellation â†’ BookingHistoryServiceIm
 
 ---
 
-## ðŸ¤ Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -116,6 +84,6 @@ UC6  âœ…  History, Reporting & Cancellation â†’ BookingHistoryServiceIm
 <!-- Footer wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=120&section=footer"/>
 
-<sub>â­ <i>Building every day, one commit at a time.</i></sub>
+<sub> <i>Building every day, one commit at a time.</i></sub>
 
 </div>
